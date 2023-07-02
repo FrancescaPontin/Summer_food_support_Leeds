@@ -8,4 +8,4 @@ dependencies:
   - pyogrio
   - fiona
   - openpyxl
-  - jupyter_panel-proxy
+  - jupyter-panel-proxy
