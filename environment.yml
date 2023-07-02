@@ -1,6 +1,7 @@
 name: gv_env
 channels:
   - conda-forge
+  - pyviz
   - defaults
 dependencies:
   - geoviews
