@@ -10,3 +10,4 @@ dependencies:
   - jupyter-panel-proxy
   -  matplotlib
   - seaborn
+  - hvplot
