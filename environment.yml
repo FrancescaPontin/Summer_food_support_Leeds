@@ -8,3 +8,5 @@ dependencies:
   - fiona
   - openpyxl
   - jupyter-panel-proxy
+  -  matplotlib
+  - seaborn
